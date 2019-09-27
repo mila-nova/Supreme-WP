@@ -199,9 +199,8 @@ echo substr( $first_date, 0, 4 ) . "-" . date( 'Y' );
 // picture size, hard crop mode
 add_image_size( 'post-pic-size', 1024, 570, true ); 
 
-// pic size, hard crop mode
+// pic banner size, hard crop mode
 add_image_size( 'post-banner-size', 1024, 300, true ); 
-
 
 
 // custom excerpt length
