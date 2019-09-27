@@ -31,4 +31,4 @@
 		</main><!-- #main -->
 		<?php get_sidebar('short'); ?>
 		<?php get_footer(); ?>
-<!-- 		<h1 style="color: red">simple AND !!!! SHORT !!!!ASIDE template here</h1> -->
+<!--<h1 style="color: red">simple AND !!!! SHORT !!!!ASIDE template here</h1> -->

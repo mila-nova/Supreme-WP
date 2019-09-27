@@ -54,4 +54,4 @@ endif; } ?>
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
-<h1 style="color: red">THIS IS INDEX TEMPLATE</h1>
+<!-- <h1 style="color: red">THIS IS INDEX TEMPLATE</h1> -->

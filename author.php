@@ -33,4 +33,4 @@ get_header('custom');
 
 <?php get_sidebar('short'); ?>
 <?php get_footer(); ?>
-<h1 style="color: red">THIS IS AUTHOR TEMPLATE</h1>
+<!-- <h1 style="color: red">THIS IS AUTHOR TEMPLATE</h1> -->
