@@ -1,7 +1,7 @@
 # Wordpress Theme
-My WordPress theme project  
-WordPress PHP school project
+My WordPress theme project / WordPress PHP school project
 
+![wordpress Website preview](wp-git-preview.jpg)
 ## Description  
 
 ### About
@@ -26,11 +26,11 @@ Right now I feel confident about creating any common website with WordPress by t
 
 ## Attribution
 ### Graphics:
-
-
+1.	Background picture: [designed by coolvector / Freepik](http://www.freepik.com)
+2.	Header banner picture: [designed by Freepik](http://www.freepik.com)
 ### Typeface:
-
-
+[Roboto](https://fonts.google.com/specimen/Roboto) by Christian Robertson from Googgle fonts 
+***
 Website Design and Development: [Mila Kononova](https://www.milakononova.com/)  
 
 &copy; Mila Kononova, 2019  
