@@ -20,6 +20,7 @@ I always design with mobile first in mind, so my site is fully responsive and wo
 When I get to choose about project design I would usually tend to a much cleaner sort of minimalistic design, but this time I really wanted to experiment and create something different. Instead of classic dark font on white background I wanted to try dark background and white text. I got to be my own client, and provided myself with some vision, and managed to come up with a graphical style, color palette, stylescape and began to work on wireframe till I was pleased with it. 
 ### Optimization
 After I implemented my website layout and added missing WordPress functionality as I describe in my documentation in detail, I managed to apply a lot of methods to optimize and increase my sites accessibility. I hope that I managed to create a good quality product. I ran a lot of automated and manual accessibility tests which I describe in detail in my documentation.  
+
 I found solutions for image optimization which allow me to save loading time and provide good quality pictures to users with high resolution retina displays.
 ### Evaluation
 During my work I ran into a lot of challenges and troubles. At first I created a loop for each category, but soon realize what a bad solution it was. Not only will I have to add code with every new category, it was also contradicting good practice of “DRY” (do not repeat yourself). It was a real challenge to redo everything and hand in my assignment in time, but thankfully WordPress has very good documentation and I managed to find a good solution, one loop that would go through each category. 
@@ -28,7 +29,8 @@ Even though I accomplished quite a lot for my website I think there is a lot tha
 
 Lastly I want to say that when I started this project and decided not to give up on my planning, I understood that I was lacking a lot of knowledge, I have never seen PHP before. But I am happy that I didn’t give up and simplified my design. Researching and learning new things was very exciting and rewarding. I know my end product is not perfect but I took a really long leap and covered a huge knowledge gap in WordPress. That was absolutely delightful to research and find solutions and see things which I wanted to implement work!
 
-I learned a lot about WordPress functionality, functions and plugins. I acquired a good understanding about what accessibility means for a website, as well as security and integrity.  
+I learned a lot about WordPress functionality, functions and plugins. I acquired a good understanding about what accessibility means for a website, as well as security and integrity. 
+
 Right now I feel confident about creating any common website with WordPress by taking an empty theme and adjusting it according to my needs. By common I mean not e-commerce and similar, which will require more knowledge and research at this point. WordPress offers almost endless possibilities. I really enjoyed learning and working on this task.
 
 ## Attribution
@@ -36,7 +38,7 @@ Right now I feel confident about creating any common website with WordPress by t
 1.	Background picture: [designed by coolvector / Freepik](http://www.freepik.com)
 2.	Header banner picture: [designed by Freepik](http://www.freepik.com)
 ### Typeface:
-[Roboto](https://fonts.google.com/specimen/Roboto) by Christian Robertson from Googgle fonts 
+[Roboto](https://fonts.google.com/specimen/Roboto) by Christian Robertson / Googgle fonts 
 ***
 Website Design and Development: [Mila Kononova](https://www.milakononova.com/)  
 
